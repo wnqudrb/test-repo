@@ -1,2 +1,2 @@
 # test-repo
-이것은 테스트레포입니다.
+이것은 test-repo입니다.
